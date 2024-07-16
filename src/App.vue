@@ -1,6 +1,6 @@
 <script setup lang="ts">
-// import PhotoWall from '@/packages/PhotoWall.vue'
-import PhotoWall from '../dist'
+import PhotoWall from '@/packages/PhotoWall.vue'
+// import PhotoWall from '../dist'
 
 const defaultImgList = [
   {
